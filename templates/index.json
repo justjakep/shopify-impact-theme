@@ -125,7 +125,9 @@
         "collection": "",
         "products": [
           "firefly",
-          "chicken-zombie"
+          "chicken-zombie",
+          "raccoon-pet",
+          "red-fox-pet"
         ],
         "full_width": true,
         "stack_products": false,
