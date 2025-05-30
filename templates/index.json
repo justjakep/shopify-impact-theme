@@ -353,6 +353,60 @@
         "background_gradient": ""
       }
     },
+    "press": {
+      "type": "press",
+      "blocks": {
+        "16644243327ba53d2a-0": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/Trustpilot_Logo__2022__svg.png",
+            "logo_width": 100,
+            "author": "Sarah H.",
+            "content": "My son got his pets instantly, he's loving his collection now.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_Fe8x8c": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/Trustpilot_Logo__2022__svg.png",
+            "logo_width": 100,
+            "author": "David L.",
+            "content": "Didn't have to wait at all after purchasing, it gave me a link and promptly after I joined and it gave me items. 10/10 love this site!",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_4fFnFq": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/Trustpilot_Logo__2022__svg.png",
+            "logo_width": 100,
+            "author": "Darra G.",
+            "content": "Thanks so much for the quick delivery, fantastic service, the items are great! I sent them to my friend and they are very happy! Bloxgrow #1.",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "16644243327ba53d2a-0",
+        "quote_Fe8x8c",
+        "quote_4fFnFq"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "before-after-image": {
       "type": "before-after-image",
       "settings": {
@@ -375,46 +429,6 @@
         "after_text_color": "#ffffff",
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
-      }
-    },
-    "press": {
-      "type": "press",
-      "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
-          }
-        },
-        "16644243327ba53d2a-1": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
-          }
-        }
-      },
-      "block_order": [
-        "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "hot-spots": {
@@ -462,6 +476,7 @@
         "1664424434f5b7d0e0-1",
         "1664424434f5b7d0e0-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "",
@@ -514,6 +529,7 @@
         "1664424486a2b084ab-0",
         "1664424486a2b084ab-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "images_layout": "scattered",
@@ -602,6 +618,7 @@
         "quantity-selector",
         "buy-buttons"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "product": "",
@@ -710,6 +727,7 @@
         "16644246508f6fa13a-1",
         "16644246508f6fa13a-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "Compare",
@@ -742,41 +760,65 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Is BloxGrow Legit?",
+            "content": "<p><br/>Definitely! We've got a thriving community and countless successful customers. Take a look at what others are saying in their reviews and testimonials!</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Is there a ban risk?",
+            "content": "<p>Nope! We’ve completed thousands of successful sales with tons of satisfied customers — and not once has anyone been banned for using our site!</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Why is my address needed?",
+            "content": "<p>Our payment processor requires us to collect your full name and address to verify your identity. This information is used solely for verification purposes — we never share or sell your personal data.</p>"
+          }
+        },
+        "item_Wntj9a": {
+          "type": "item",
+          "settings": {
+            "title": "How do I claim my order?",
+            "content": "<p>Once you complete your purchase, you’ll receive a link to confirm your username. After that, you’ll get access to a private server where one of our bots will send you a gift request.</p>"
+          }
+        },
+        "item_aEY6FN": {
+          "type": "item",
+          "settings": {
+            "title": "I closed the order page? How do I access it?",
+            "content": "<p>No worries! When you make a purchase on our site, we automatically send a copy of the claim link to your email — just in case. Simply check the email you used at checkout and look for the order confirmation message. If you can’t find it, just reach out to our support team — we’re happy to help!</p>"
+          }
+        },
+        "item_qdKAFj": {
+          "type": "item",
+          "settings": {
+            "title": "How do I contact support?",
+            "content": "<p>Please visit our \"Contact Us\" page — a staff member will be happy to assist you within 24 hours. To ensure a smooth process, avoid sending multiple emails, as it may push your inquiry to the end of the queue.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_Wntj9a",
+        "item_aEY6FN",
+        "item_qdKAFj"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "<p>Frequently asked questions.</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
+        "support_hours": "Need help with your order? We're here to help.",
+        "answer_time": "Average answer time: 12h",
+        "button_text": "Contact Support",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
@@ -797,8 +839,8 @@
     "rich_text_3CXfYD",
     "image-with-text-overlay",
     "media-grid",
-    "before-after-image",
     "press",
+    "before-after-image",
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
