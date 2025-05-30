@@ -817,7 +817,7 @@
         "support_hours": "Need help with your order? We're here to help.",
         "answer_time": "Average answer time: 12h",
         "button_text": "Contact Support",
-        "button_url": "shopify://pages/data-sale-opt-out",
+        "button_url": "shopify://pages/contact",
         "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
