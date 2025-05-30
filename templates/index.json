@@ -164,94 +164,6 @@
         "product_card_text_color": ""
       }
     },
-    "image_link_blocks_xCDJbU": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_nkVw6j": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Frame12.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_hCrnqF": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_3H9HAw": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_x3nV7U": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_MzVDDK": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_nkVw6j",
-        "item_hCrnqF",
-        "item_3H9HAw",
-        "item_x3nV7U",
-        "item_MzVDDK"
-      ],
-      "name": "Image link blocks",
-      "settings": {
-        "full_width": false,
-        "block_size": "large",
-        "subheading": "",
-        "title": "PICK HOW YOU SHOP 🌱",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "scrolling-text": {
       "type": "scrolling-text",
       "settings": {
@@ -448,6 +360,8 @@
         "subheading": "",
         "title": "Before/after",
         "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "before_image": "shopify://shop_images/ChatGPT_Image_May_30_2025_03_09_45_AM.png",
+        "after_image": "shopify://shop_images/ChatGPT_Image_May_30_2025_03_09_43_AM.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -879,7 +793,6 @@
     "slideshow",
     "collection-list",
     "featured-collection",
-    "image_link_blocks_xCDJbU",
     "scrolling-text",
     "rich_text_3CXfYD",
     "image-with-text-overlay",
