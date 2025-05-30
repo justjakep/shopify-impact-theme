@@ -85,7 +85,7 @@
           "type": "text",
           "settings": {
             "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p>Bloxgrow is your trusted store for Grow a Garden pets and items, offering fast delivery, responsive support, and a shop built for the Grow a Garden community. Whether you're looking to expand your collection or upgrade your gear, Bloxgrow has the bundles and rare finds you need!<br/></p>",
             "enable_follow_on_shop": true
           }
         }
