@@ -124,7 +124,8 @@
       "settings": {
         "collection": "",
         "products": [
-          "firefly"
+          "firefly",
+          "chicken-zombie"
         ],
         "full_width": true,
         "stack_products": false,
