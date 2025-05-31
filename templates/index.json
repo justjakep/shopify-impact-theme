@@ -139,10 +139,10 @@
       "settings": {
         "collection": "",
         "products": [
-          "firefly",
           "chicken-zombie",
           "raccoon-pet",
-          "red-fox-pet"
+          "red-fox-pet",
+          "dragonfly-pet"
         ],
         "full_width": true,
         "stack_products": false,
