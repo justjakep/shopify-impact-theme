@@ -139,10 +139,10 @@
       "settings": {
         "collection": "",
         "products": [
-          "chicken-zombie",
           "raccoon-pet",
           "red-fox-pet",
-          "dragonfly-pet"
+          "chicken-zombie",
+          "1t-sheckles-candy-blossom"
         ],
         "full_width": true,
         "stack_products": false,
