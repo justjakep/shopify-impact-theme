@@ -77,6 +77,16 @@
             "payment_button_text_color": ""
           }
         },
+        "associated_products_4GFG4C": {
+          "type": "associated_products",
+          "settings": {
+            "title": "You May Also Like",
+            "stack_products": true,
+            "products_count": 5,
+            "background": "",
+            "text_color": ""
+          }
+        },
         "selleasy_lb_upsell_widget_pal_6VtkPM": {
           "type": "shopify://apps/selleasy/blocks/lb-upsell-widget-pal/790c1a03-a71f-4bc1-9869-00dad526d3c2",
           "settings": {}
@@ -94,6 +104,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "associated_products_4GFG4C",
         "selleasy_lb_upsell_widget_pal_6VtkPM"
       ],
       "settings": {
