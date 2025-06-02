@@ -76,16 +76,6 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "associated_products_4GFG4C": {
-          "type": "associated_products",
-          "settings": {
-            "title": "You May also Like",
-            "stack_products": true,
-            "products_count": 5,
-            "background": "",
-            "text_color": ""
-          }
         }
       },
       "block_order": [
@@ -99,8 +89,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "associated_products_4GFG4C"
+        "buy_buttons"
       ],
       "settings": {
         "full_width": true,
