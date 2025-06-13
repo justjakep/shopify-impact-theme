@@ -62,21 +62,6 @@
         "disabled": false,
         "settings": {}
       },
-      "3138269044488530766": {
-        "type": "shopify://apps/uppromote-affiliate/blocks/core-script/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
-        "disabled": false,
-        "settings": {}
-      },
-      "9005256451184024879": {
-        "type": "shopify://apps/uppromote-affiliate/blocks/customer-referral/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
-        "disabled": true,
-        "settings": {}
-      },
-      "1996061711396120121": {
-        "type": "shopify://apps/uppromote-affiliate/blocks/message-bar/64c32457-930d-4cb9-9641-e24c0d9cf1f4",
-        "disabled": true,
-        "settings": {}
-      },
       "11242429557760608184": {
         "type": "shopify://apps/referrly-affiliate-marketing/blocks/main-app-embed/75b5ccd5-af90-4f81-ab89-2c28499171fd",
         "disabled": false,

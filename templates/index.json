@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/upscalemedia-transformed_1.png",
+            "image": "shopify://shop_images/ChatGPT_Image_May_30_2025_12_16_14_AM_1_d751e738-a4fa-4ee7-a5f5-c0625910cfd1.png",
             "mobile_image": "shopify://shop_images/upscalemedia-transformed.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -195,7 +195,6 @@
       "block_order": [
         "heading_FtMPPn"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
