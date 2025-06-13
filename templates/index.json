@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_May_30_2025_12_16_14_AM_1_d751e738-a4fa-4ee7-a5f5-c0625910cfd1.png",
+            "image": "shopify://shop_images/ChatGPT_Image_Jun_12_2025_11_31_24_PM.png",
             "mobile_image": "shopify://shop_images/upscalemedia-transformed.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -140,9 +140,9 @@
         "collection": "",
         "products": [
           "raccoon-pet",
-          "queen-bee-pet",
-          "1t-sheckles-candy-blossom",
-          "red-fox-pet"
+          "red-fox-pet",
+          "dragonfly-pet",
+          "queen-bee-pet"
         ],
         "full_width": true,
         "stack_products": false,
