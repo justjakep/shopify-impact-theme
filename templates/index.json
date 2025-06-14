@@ -15,13 +15,13 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/95e81941-e41d-438c-b3f3-123b6aa34c90_1.png",
+            "image": "shopify://shop_images/Frame_2131328842.png",
             "mobile_image": "shopify://shop_images/95e81941-e41d-438c-b3f3-123b6aa34c90_1.png",
             "content_max_width": 1140,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "Use code ‘GROW’ for a 5% discount! Thanks for being sick!",
-            "title": "Summer Super Deals: Use Code ‘GROW’! 🌊🫛",
+            "title": "Summer Super Deals: Use Code ‘GROW’! 🏖️🩴",
             "heading_tag": "h0",
             "button_text": "SHOP NOW",
             "button_link": "shopify://collections/all",
