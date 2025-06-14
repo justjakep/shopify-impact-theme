@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Frame_2131328842.png",
-            "mobile_image": "shopify://shop_images/Frame_2131328842_1.jpg",
+            "image": "shopify://shop_images/Frame_7_0088ef28-2260-4656-b9f4-6d6e187ad747.png",
+            "mobile_image": "shopify://shop_images/Frame_7_0088ef28-2260-4656-b9f4-6d6e187ad747.png",
             "content_max_width": 840,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -30,7 +30,7 @@
             "button_text_color": "#000000",
             "overlay_color": "#515050",
             "overlay_opacity": 38,
-            "background": "",
+            "background": "#000000",
             "background_gradient": ""
           }
         }
