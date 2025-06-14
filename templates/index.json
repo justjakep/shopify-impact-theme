@@ -20,7 +20,7 @@
             "content_max_width": 840,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Use code ‘GROW’ for a 5% discount! Thanks for being sick!",
+            "subheading": "Use code ‘GROW’ for a 10% discount! Thanks for being awesome!",
             "title": "Summer Super Deals: Use Code ‘GROW’! 🏖️🩴",
             "heading_tag": "h0",
             "button_text": "SHOP NOW",
@@ -29,7 +29,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#515050",
-            "overlay_opacity": 38,
+            "overlay_opacity": 25,
             "background": "#000000",
             "background_gradient": ""
           }
