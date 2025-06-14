@@ -15,9 +15,9 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_Jun_12_2025_11_31_24_PM.png",
+            "image": "shopify://shop_images/Frame_2131328039.png",
             "mobile_image": "shopify://shop_images/upscalemedia-transformed.png",
-            "content_max_width": 780,
+            "content_max_width": 1140,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "Use code ‘GROW’ for a 5% discount! Thanks for being sick!",
@@ -29,7 +29,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
@@ -39,7 +39,7 @@
         "slide-1"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": true,
         "image_size": "md",
         "controls_type": "numbers",
@@ -47,7 +47,7 @@
         "autoplay": true,
         "cycle_speed": 6,
         "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+        "background_gradient": "linear-gradient(60deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 98%)"
       }
     },
     "collection-list": {
